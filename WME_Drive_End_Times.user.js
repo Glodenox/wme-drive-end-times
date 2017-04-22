@@ -4,6 +4,7 @@
 // @version      0.2
 // @include      /^https:\/\/(www|beta)\.waze\.com\/(?!user\/)(.{2,6}\/)?editor\/.*$/
 // @description  Add end times to the list of archived drives in the Waze Map Editor.
+// @updateURL    https://github.com/Glodenox/wme-drive-end-times/raw/master/WME_Drive_End_Times.user.js
 // @author       Brice McIver
 // @author       Tom Puttemans
 // @grant        none
